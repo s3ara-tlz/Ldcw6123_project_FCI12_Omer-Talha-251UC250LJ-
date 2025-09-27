@@ -1,3 +1,6 @@
 - step 1
 - Add base fare estimation logic and surge multipliers
 - Implement widgets persistence (load/save to widgets.txt)
+- Add CLI menu: add/view/delete widgets
+- Add 'view widget detail' and ad-hoc estimation feature
+- Improve input validation and error handling
