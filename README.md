@@ -1,0 +1,3 @@
+- step 1
+- Add base fare estimation logic and surge multipliers
+- Implement widgets persistence (load/save to widgets.txt)
