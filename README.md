@@ -15,3 +15,5 @@ git commit -am "Improve input validation and error handling"
 git remote add origin https://github.com/OmerTalha/e-hailing-fare-advisor.git
 git branch -M main
 git push -u origin main
+git log --oneline --graph
+
