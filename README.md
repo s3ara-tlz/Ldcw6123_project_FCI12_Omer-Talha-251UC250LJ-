@@ -4,3 +4,4 @@
 - Add CLI menu: add/view/delete widgets
 - Add 'view widget detail' and ad-hoc estimation feature
 - Improve input validation and error handling
+git init
