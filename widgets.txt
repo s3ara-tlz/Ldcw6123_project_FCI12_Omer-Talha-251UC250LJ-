@@ -1,0 +1,2 @@
+Home->Work|Home|Office|12.5|-1|8|weekday|0
+Work->Home|Office|Home|12.5|-1|18|weekday|0
